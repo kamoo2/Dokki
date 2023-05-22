@@ -64,8 +64,8 @@
         <div>BE 팀원</div>
       </td>
       <td align="center">
-        <a href="https://github.com/hyeonaseome">
-            <img src="https://avatars.githubusercontent.com/u/109887404?v=4" width="100px;" alt="Jeroen Engels"/>
+        <a href="https://github.com/leeflection">
+            <img src="https://avatars.githubusercontent.com/u/110040034?v=4" width="100px;" alt="Jeroen Engels"/>
             <br />
             <sub><b>팀원 이재혁</b></sub>
         </a>
