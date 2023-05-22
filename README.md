@@ -25,8 +25,8 @@
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/yeomss">
-            <img src="https://avatars.githubusercontent.com/u/50233862?v=4" width="100px;" alt="Kent C. Dodds"/>
+        <a href="https://github.com/nimusmix">
+            <img src="https://avatars.githubusercontent.com/u/109320569?v=4" width="100px;" alt="Kent C. Dodds"/>
             <br />
             <sub><b>팀장 김수민</b></sub>
         </a>
